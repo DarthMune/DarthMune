@@ -2,7 +2,10 @@
 
 # Finding your secrets
 
-Hello there, I'm DarthMune :call_me_hand:
+| _ \ __ _ __| | | / | __ _ _ | |() __ _
+| | | |/ _ / __| __| | |\/| |/ _ | '| | |/ ` |
+| || | (| _ \ | | | | | (| | | | || | (| |
+|/ _,|/_| || ||_,|| _||_,_
 
 ## About Me
 🔍 IT professional and Cybersecurity student/enthusiast.  
