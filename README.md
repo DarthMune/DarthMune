@@ -1,5 +1,9 @@
 ![Banner Image](./assets/Sith%20lord%20using%20a%20purple-reddish%20electric_final%201%20(1).jpg)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/f3KwliaH4MLtli8z7D/giphy.gif" alt="Description" width="300px">
+</p>
+
 # Finding your secrets
 
 Hey, I'm Darth Mune :call_me_hand:
@@ -8,6 +12,7 @@ Hey, I'm Darth Mune :call_me_hand:
 🔍 IT professional and Cybersecurity student/enthusiast.  
 🌐 Passionate about all things OSINT and utilizing it to assist individuals worldwide. #OSINT4Good  
 🖥️ Not a developer by profession but nurturing it as a hobby.
+![tryhackme stats]
 
 ## Skills
 ![OSINT](https://img.shields.io/badge/OSINT-blue)
@@ -66,3 +71,7 @@ Hey, I'm Darth Mune :call_me_hand:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarthMune&theme=graywhite)
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/darthmune) Every coffee is one month of a cloud server for me and is greatly appreciated! :black_heart:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l1J9HDdEWq7rAs1hu/giphy.gif" alt="Description">
+</p>
