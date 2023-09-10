@@ -1,7 +1,7 @@
 ![Banner Image](./assets/Sith%20lord%20using%20a%20purple-reddish%20electric_final%201%20(1).jpg)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3KwliaH4MLtli8z7D/giphy.gif" alt="Description">
+  <img src="https://media.giphy.com/media/f3KwliaH4MLtli8z7D/giphy.gif" alt="Description" width="50%">
 </p>
 
 # Finding your secrets
