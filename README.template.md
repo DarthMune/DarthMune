@@ -2,10 +2,14 @@
 
 # Finding your secrets
 
- __        __  ___                          ___ 
-|  \  /\  |__)  |  |__|     |\/| |  | |\ | |__  
-|__/ /~~\ |  \  |  |  |     |  | \__/ | \| |___ 
-                                   
+######                                #     #                      
+#     #   ##   #####  ##### #    #    ##   ## #    # #    # ###### 
+#     #  #  #  #    #   #   #    #    # # # # #    # ##   # #      
+#     # #    # #    #   #   ######    #  #  # #    # # #  # #####  
+#     # ###### #####    #   #    #    #     # #    # #  # # #      
+#     # #    # #   #    #   #    #    #     # #    # #   ## #      
+######  #    # #    #   #   #    #    #     #  ####  #    # ###### 
+
 ## About Me
 🔍 IT professional and Cybersecurity student/enthusiast.  
 🌐 Passionate about all things OSINT and utilizing it to assist individuals worldwide. #OSINT4Good  
