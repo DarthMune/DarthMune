@@ -73,6 +73,6 @@ Hey, I'm Darth Mune :call_me_hand:
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/darthmune) Every coffee is one month of a cloud server for me and is greatly appreciated! :black_heart:
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/l1J9HDdEWq7rAs1hu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ciscoengemojis-security-l1J9HDdEWq7rAs1hu">via GIPHY</a></p>
+  <iframe src="https://giphy.com/gifs/ciscoengemojis-security-l1J9HDdEWq7rAs1hu" width="60%" height="auto" frameBorder="0"></iframe>
 </p>
 
