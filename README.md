@@ -64,3 +64,5 @@ Hey, I'm Darth Mune :call_me_hand:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthMune&layout=compact&theme=graywhite)](https://github.com/DarthMune/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarthMune&theme=graywhite)
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/darthmune) Every coffee is one month of a cloud server for me and is greatly appreciated! :black_heart:
