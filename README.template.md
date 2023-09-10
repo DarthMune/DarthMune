@@ -2,10 +2,7 @@
 
 # Finding your secrets
 
- ____          _   _      _____             
-|    \ ___ ___| |_| |_   |     |_ _ ___ ___ 
-|  |  | .'|  _|  _|   |  | | | | | |   | -_|
-|____/|__,|_| |_| |_|_|  |_|_|_|___|_|_|___|
+Hey, I'm Darth Mune :call_me_hand:
 
 ## About Me
 🔍 IT professional and Cybersecurity student/enthusiast.  
