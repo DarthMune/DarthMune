@@ -8,7 +8,7 @@ Hey, I'm Darth Mune :call_me_hand:
 🔍 IT professional and Cybersecurity student/enthusiast.  
 🌐 Passionate about all things OSINT and utilizing it to assist individuals worldwide. #OSINT4Good  
 🖥️ Not a developer by profession but nurturing it as a hobby.
-![tryhackme stats](https://raw.githubusercontent.com/DarthMune/DarthMune/master/assets/thm_propic.png)
+![tryhackme stats]
 
 ## Skills
 ![OSINT](https://img.shields.io/badge/OSINT-blue)
