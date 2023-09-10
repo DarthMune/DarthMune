@@ -64,5 +64,3 @@ Hello there, I'm DarthMune :call_me_hand:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthMune&layout=compact&theme=graywhite)](https://github.com/DarthMune/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarthMune&theme=graywhite)
-
-[![DarthMune's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DarthMune&theme=github-light)](https://github.com/DarthMune/github-readme-activity-graph)
