@@ -55,8 +55,14 @@ Hello there, I'm DarthMune :call_me_hand:
 -->
 
 ## Contact
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) - [Your LinkedIn](https://www.linkedin.com/in/steven-coffey-213b96140/)  
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) - [Connect with Me!](https://www.linkedin.com/in/steven-coffey-213b96140/)  
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) - Ask me for an Invite
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DarthMune&show_icons=true&theme=graywhite)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthMune&layout=compact&theme=graywhite)](https://github.com/DarthMune/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarthMune&theme=graywhite)
+
+[![DarthMune's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DarthMune&theme=github-light)](https://github.com/DarthMune/github-readme-activity-graph)
