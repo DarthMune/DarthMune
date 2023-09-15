@@ -1,5 +1,5 @@
 # Project Title <!-- Replace with your project's title -->
-> A project by Darth Mune
+> Authored by: Darth Mune
 
 ## Description 
 <!-- Replace with a short description of your project -->
@@ -17,7 +17,11 @@
 <!-- Modify the table of contents based on the sections you include in your README -->
 
 ## Installation 
-<!-- Include step-by-step installation instructions here -->
+    1.
+    2.
+    3.
+    4.
+    5.
 
 ## Usage 
 <!-- Include step-by-step usage instructions here -->
