@@ -26,8 +26,12 @@
 ## Usage 
 <!-- Include step-by-step usage instructions here -->
 
-## Contributing 
+<!--
+## Contributing
+
+-->
 <!-- Specify how others can contribute to your project -->
+
 
 ### Code of Conduct
 All users are expected to adhere to the Code of Conduct while using this project. This project is intended for research and/or educational purposes and should not be used for any illegal activities. The end user assumes all risks associated with the use of this project.
@@ -38,10 +42,16 @@ This project is licensed under the GNU General Public License v3.0. For more det
 ## Contact
 <!-- Include your contact information here -->
 
-## FAQs 
+<!--
+## FAQs
+
+-->
 <!-- Include answers to some frequently asked questions here -->
 
-## Credits 
+<!--
+## Credits
+-->
+ 
 <!-- Acknowledge the contributions of others and include any credits here -->
 
 ## Screenshots or GIFs 
